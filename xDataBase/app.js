@@ -14,4 +14,4 @@ async function criarEPopularTabelaUsuarios(nome, number, password){
     	
 }
 
-criarEPopularTabelaUsuarios('Kaguyo', '997296272');a
+criarEPopularTabelaUsuarios('Kaguyo', '999999999');
